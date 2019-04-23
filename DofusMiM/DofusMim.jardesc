@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="DofusMiM/lib/DofusMiM.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DofusMiM/DofusMim.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=DofusMiM/src&lt;org.xvolks.dofus{Main.java[Main" manifestLocation="/DofusMiM/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=DofusMiM/src&lt;org.xvolks.dofus.util"/>
+        <javaElement handleIdentifier="=DofusMiM/src&lt;org.xvolks.dofus"/>
+        <javaElement handleIdentifier="=DofusMiM/src&lt;org.xvolks.dofus.injection"/>
+        <javaElement handleIdentifier="=DofusMiM/src&lt;org.xvolks.dofus.protocol"/>
+        <javaElement handleIdentifier="=DofusMiM/src&lt;org.xvolks.dofus.injection.impl.flood"/>
+        <javaElement handleIdentifier="=DofusMiM/src&lt;dofus.aks"/>
+    </selectedElements>
+    <fatjar builder="org.eclipse.jdt.ui.plain_jar_builder" launchConfig=""/>
+</jardesc>

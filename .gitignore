@@ -1,0 +1,11 @@
+log/
+out/
+bin/
+.idea/
+.DS_Store
+.classpath
+.settings/
+.project
+.svn/
+.gradle/
+target/

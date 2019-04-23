@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="DofusMiM/lib/DofusMiMLogger.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DofusMiM/DofusMimLogger.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="/DofusMiM/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/DofusMiMLogger/.project"/>
+        <file path="/DofusMiMLogger/.classpath"/>
+        <javaElement handleIdentifier="=DofusMiMLogger/src"/>
+    </selectedElements>
+</jardesc>

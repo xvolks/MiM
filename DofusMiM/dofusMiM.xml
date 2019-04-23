@@ -1,0 +1,43 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\workspace.perso\DofusMiM\lib\DofusMiM.jar</jar>
+  <outfile>C:\workspace.perso\DofusMiM\distrib\XvolksBot.exe</outfile>
+  <errTitle>Java introuvable, téléchargement...</errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon></icon>
+  <singleInstance>
+    <mutexName>DofusMiM</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <classPath>
+    <mainClass>org.xvolks.dofus.Main</mainClass>
+    <cp>.</cp>
+    <cp>lib\log4j-1.2.15.jar</cp>
+  </classPath>
+  <jre>
+    <path></path>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>jreOnly</jdkPreference>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>beta</txtFileVersion>
+    <fileDescription>Dofus Man In The Middle</fileDescription>
+    <copyright>Xvolks</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>beta</txtProductVersion>
+    <productName>Dofus Man In The Middle</productName>
+    <companyName></companyName>
+    <internalName>DofusMiM</internalName>
+    <originalFilename>DofusMiM.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
